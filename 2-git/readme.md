@@ -1,1 +1,0 @@
-# Extra info about git, useful links and such
